@@ -3,7 +3,9 @@
 A work-in-progress custom firmware generator / firmware restorer for various devices.
 
  **REQUIRES A BOOTROM EXPLOIT!!**
+ 
        *Don't even think about asking me for support on the iPhone 4s and up...*
+       
        *It won't happen unless someone wants to burn a BootROM exploit*
 
   *First release will support the iPhone 3GS* **only**. (Also most likely limited to downgrading to 6.1.3)
