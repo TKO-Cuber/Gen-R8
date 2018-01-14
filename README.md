@@ -21,9 +21,9 @@ Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, et
 
 Oh yeah, the license. Here you go:
 
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 *  *  *  *  *
 
