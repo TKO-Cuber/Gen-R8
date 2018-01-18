@@ -1,16 +1,19 @@
 # IPSW-Gen
 
 A work-in-progress custom firmware generator / firmware restorer for various devices.
+  *Also the first tool/program I've made :)*
 
  **REQUIRES A BOOTROM EXPLOIT!!**
    *Or kloader if you know what you're doing*
 
+  *  *  *  *  *
+  
   *First release will support the iPhone 3GS* **only**. (Also most likely limited to downgrading to 6.1.3)
   *More support will come eventually!*
   
   *  *  *  *  *
   
-  The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys
+  The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys!
   
   
   &nbsp;
