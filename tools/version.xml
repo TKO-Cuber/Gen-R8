@@ -89876,20 +89876,20 @@
 				</dict>
 				<key>iPad4,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B511</key>
@@ -89899,15 +89899,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B554a</key>
@@ -90160,6 +90160,11 @@
 						<key>SameAs</key>
 						<string>11B511</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11B511</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -90167,15 +90172,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+								<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -90184,20 +90189,20 @@
 				</dict>
 				<key>iPad4,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B511</key>
@@ -90207,15 +90212,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B554a</key>
@@ -90468,6 +90473,11 @@
 						<key>SameAs</key>
 						<string>11B511</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11B511</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -90475,15 +90485,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+								<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -90492,20 +90502,20 @@
 				</dict>
 				<key>iPad4,3</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11D167</key>
@@ -90515,15 +90525,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11D201</key>
@@ -90761,6 +90771,11 @@
 						<key>SameAs</key>
 						<string>11D167</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11D167</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -90768,15 +90783,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+								<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -90785,20 +90800,20 @@
 				</dict>
 				<key>iPad4,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B511</key>
@@ -90808,15 +90823,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B554a</key>
@@ -91069,6 +91084,11 @@
 						<key>SameAs</key>
 						<string>11B511</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11B511</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -91076,15 +91096,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+								<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -91093,20 +91113,20 @@
 				</dict>
 				<key>iPad4,5</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B511</key>
@@ -91116,15 +91136,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11B554a</key>
@@ -91377,6 +91397,11 @@
 						<key>SameAs</key>
 						<string>11B511</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11B511</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -91384,15 +91409,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+								<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -91401,20 +91426,20 @@
 				</dict>
 				<key>iPad4,6</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11D167</key>
@@ -91424,15 +91449,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+							<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11D201</key>
@@ -91670,6 +91695,11 @@
 						<key>SameAs</key>
 						<string>11D167</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11D167</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -91677,15 +91707,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>98008b7a930d13fac33bb97a7fdb62c308c61408</string>
+								<string>2eb1ae7b6d6bef7f8afe3d695ed24bf4b37d33fe</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54864-20171213-5FC1A774-DDFB-11E7-A520-09E4FB2783B2/iPad_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58444-20170108-B84CA2E2-F0C8-11E7-9E09-702D869EB6BD/iPad_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -91694,20 +91724,20 @@
 				</dict>
 				<key>iPad4,7</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12A365</key>
@@ -91717,15 +91747,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12A402</key>
@@ -91948,6 +91978,11 @@
 						<key>SameAs</key>
 						<string>12A365</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12A365</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -91955,15 +91990,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -91972,20 +92007,20 @@
 				</dict>
 				<key>iPad4,8</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B410</key>
@@ -91995,15 +92030,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B436</key>
@@ -92211,6 +92246,11 @@
 						<key>SameAs</key>
 						<string>12B410</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12B410</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -92218,15 +92258,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -92235,20 +92275,20 @@
 				</dict>
 				<key>iPad4,9</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B410</key>
@@ -92258,15 +92298,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B436</key>
@@ -92474,6 +92514,11 @@
 						<key>SameAs</key>
 						<string>12B410</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12B410</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -92481,15 +92526,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -92498,20 +92543,20 @@
 				</dict>
 				<key>iPad5,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A340</key>
@@ -92521,15 +92566,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A404</key>
@@ -92692,6 +92737,11 @@
 						<key>SameAs</key>
 						<string>13A340</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13A340</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -92699,15 +92749,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -92716,20 +92766,20 @@
 				</dict>
 				<key>iPad5,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A340</key>
@@ -92739,15 +92789,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A404</key>
@@ -92910,6 +92960,11 @@
 						<key>SameAs</key>
 						<string>13A340</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13A340</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -92917,15 +92972,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -92934,20 +92989,20 @@
 				</dict>
 				<key>iPad5,3</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B410</key>
@@ -92957,15 +93012,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B436</key>
@@ -93173,6 +93228,11 @@
 						<key>SameAs</key>
 						<string>12B410</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12B410</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -93180,15 +93240,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -93197,20 +93257,20 @@
 				</dict>
 				<key>iPad5,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B410</key>
@@ -93220,15 +93280,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+							<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12B436</key>
@@ -93436,6 +93496,11 @@
 						<key>SameAs</key>
 						<string>12B410</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12B410</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -93443,15 +93508,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>5a673cb851a7c6b94c3a16cde0f780bbfed5f11f</string>
+								<string>7735e4dfff7a930987c322c293826465e57fe592</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55048-20171213-5FB7E860-DDFB-11E7-A289-10E4FB2783B2/iPad_64bit_TouchID_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58757-20170108-B851094A-F0C8-11E7-AEAF-7E2D869EB6BD/iPad_64bit_TouchID_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -93460,20 +93525,20 @@
 				</dict>
 				<key>iPad6,3</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>cb2ff059e91f2d10ae203580316d3b77a7551473</string>
+							<string>becfa9f4665111df924ccbcada639ca49b828b1a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55003-20171213-5FBFCE5E-DDFB-11E7-A1AA-0DE4FB2783B2/iPadPro_9.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58801-20170108-B847E3BA-F0C8-11E7-B859-7F2D869EB6BD/iPadPro_9.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13E234</key>
@@ -93483,15 +93548,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>cb2ff059e91f2d10ae203580316d3b77a7551473</string>
+							<string>becfa9f4665111df924ccbcada639ca49b828b1a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55003-20171213-5FBFCE5E-DDFB-11E7-A1AA-0DE4FB2783B2/iPadPro_9.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58801-20170108-B847E3BA-F0C8-11E7-B859-7F2D869EB6BD/iPadPro_9.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13E238</key>
@@ -93624,6 +93689,11 @@
 						<key>SameAs</key>
 						<string>13E234</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13E234</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -93631,15 +93701,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>cb2ff059e91f2d10ae203580316d3b77a7551473</string>
+								<string>becfa9f4665111df924ccbcada639ca49b828b1a</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55003-20171213-5FBFCE5E-DDFB-11E7-A1AA-0DE4FB2783B2/iPadPro_9.7_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58801-20170108-B847E3BA-F0C8-11E7-B859-7F2D869EB6BD/iPadPro_9.7_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -93648,20 +93718,20 @@
 				</dict>
 				<key>iPad6,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>cb2ff059e91f2d10ae203580316d3b77a7551473</string>
+							<string>becfa9f4665111df924ccbcada639ca49b828b1a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55003-20171213-5FBFCE5E-DDFB-11E7-A1AA-0DE4FB2783B2/iPadPro_9.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58801-20170108-B847E3BA-F0C8-11E7-B859-7F2D869EB6BD/iPadPro_9.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13E234</key>
@@ -93671,15 +93741,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>cb2ff059e91f2d10ae203580316d3b77a7551473</string>
+							<string>becfa9f4665111df924ccbcada639ca49b828b1a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55003-20171213-5FBFCE5E-DDFB-11E7-A1AA-0DE4FB2783B2/iPadPro_9.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58801-20170108-B847E3BA-F0C8-11E7-B859-7F2D869EB6BD/iPadPro_9.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13E238</key>
@@ -93812,6 +93882,11 @@
 						<key>SameAs</key>
 						<string>13E234</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13E234</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -93819,15 +93894,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>cb2ff059e91f2d10ae203580316d3b77a7551473</string>
+								<string>becfa9f4665111df924ccbcada639ca49b828b1a</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55003-20171213-5FBFCE5E-DDFB-11E7-A1AA-0DE4FB2783B2/iPadPro_9.7_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58801-20170108-B847E3BA-F0C8-11E7-B859-7F2D869EB6BD/iPadPro_9.7_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -93836,20 +93911,20 @@
 				</dict>
 				<key>iPad6,7</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>e995052af967f4184ff07ec006c67bdb3324ebd4</string>
+							<string>1298ba272e801c44bd569252eac0edb7c8e51c2a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54744-20171213-5FBA65CC-DDFB-11E7-B7D0-05E4FB2783B2/iPadPro_12.9_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58394-20170108-B84DEC74-F0C8-11E7-9ECE-6E2D869EB6BD/iPadPro_12.9_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13B143</key>
@@ -93859,15 +93934,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>e995052af967f4184ff07ec006c67bdb3324ebd4</string>
+							<string>1298ba272e801c44bd569252eac0edb7c8e51c2a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54744-20171213-5FBA65CC-DDFB-11E7-B7D0-05E4FB2783B2/iPadPro_12.9_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58394-20170108-B84DEC74-F0C8-11E7-9ECE-6E2D869EB6BD/iPadPro_12.9_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13B144</key>
@@ -94020,6 +94095,11 @@
 						<key>SameAs</key>
 						<string>13B143</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13B143</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94027,15 +94107,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>e995052af967f4184ff07ec006c67bdb3324ebd4</string>
+								<string>1298ba272e801c44bd569252eac0edb7c8e51c2a</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54744-20171213-5FBA65CC-DDFB-11E7-B7D0-05E4FB2783B2/iPadPro_12.9_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58394-20170108-B84DEC74-F0C8-11E7-9ECE-6E2D869EB6BD/iPadPro_12.9_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94044,20 +94124,20 @@
 				</dict>
 				<key>iPad6,8</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>e995052af967f4184ff07ec006c67bdb3324ebd4</string>
+							<string>1298ba272e801c44bd569252eac0edb7c8e51c2a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54744-20171213-5FBA65CC-DDFB-11E7-B7D0-05E4FB2783B2/iPadPro_12.9_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58394-20170108-B84DEC74-F0C8-11E7-9ECE-6E2D869EB6BD/iPadPro_12.9_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13B143</key>
@@ -94067,15 +94147,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>e995052af967f4184ff07ec006c67bdb3324ebd4</string>
+							<string>1298ba272e801c44bd569252eac0edb7c8e51c2a</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54744-20171213-5FBA65CC-DDFB-11E7-B7D0-05E4FB2783B2/iPadPro_12.9_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58394-20170108-B84DEC74-F0C8-11E7-9ECE-6E2D869EB6BD/iPadPro_12.9_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13B144</key>
@@ -94228,6 +94308,11 @@
 						<key>SameAs</key>
 						<string>13B143</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13B143</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94235,15 +94320,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>e995052af967f4184ff07ec006c67bdb3324ebd4</string>
+								<string>1298ba272e801c44bd569252eac0edb7c8e51c2a</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54744-20171213-5FBA65CC-DDFB-11E7-B7D0-05E4FB2783B2/iPadPro_12.9_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58394-20170108-B84DEC74-F0C8-11E7-9ECE-6E2D869EB6BD/iPadPro_12.9_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94252,20 +94337,20 @@
 				</dict>
 				<key>iPad6,11</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>67eedd78b86cc76a381d75bfe14c493284a70f5d</string>
+							<string>6f9e6af725a9b568c45c2e4b1bfeb1c409d9a465</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14E277</key>
@@ -94275,15 +94360,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>67eedd78b86cc76a381d75bfe14c493284a70f5d</string>
+							<string>6f9e6af725a9b568c45c2e4b1bfeb1c409d9a465</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14E304</key>
@@ -94341,6 +94426,11 @@
 						<key>SameAs</key>
 						<string>14E277</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14E277</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94348,15 +94438,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>67eedd78b86cc76a381d75bfe14c493284a70f5d</string>
+								<string>6f9e6af725a9b568c45c2e4b1bfeb1c409d9a465</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94365,20 +94455,20 @@
 				</dict>
 				<key>iPad6,12</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>67eedd78b86cc76a381d75bfe14c493284a70f5d</string>
+							<string>6f9e6af725a9b568c45c2e4b1bfeb1c409d9a465</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14E277</key>
@@ -94388,15 +94478,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>67eedd78b86cc76a381d75bfe14c493284a70f5d</string>
+							<string>6f9e6af725a9b568c45c2e4b1bfeb1c409d9a465</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14E304</key>
@@ -94454,6 +94544,11 @@
 						<key>SameAs</key>
 						<string>14E277</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14E277</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94461,15 +94556,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>67eedd78b86cc76a381d75bfe14c493284a70f5d</string>
+								<string>6f9e6af725a9b568c45c2e4b1bfeb1c409d9a465</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94478,20 +94573,20 @@
 				</dict>
 				<key>iPad7,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14F8089</key>
@@ -94501,15 +94596,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 						</dict>
 					<key>14G60</key>
@@ -94557,6 +94652,11 @@
 						<key>SameAs</key>
 						<string>14F8089</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14F8089</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94564,15 +94664,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+								<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94581,20 +94681,20 @@
 				</dict>
 				<key>iPad7,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14F8089</key>
@@ -94604,15 +94704,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 						</dict>
 					<key>14G60</key>
@@ -94660,6 +94760,11 @@
 						<key>SameAs</key>
 						<string>14F8089</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14F8089</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94667,15 +94772,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+								<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94684,20 +94789,20 @@
 				</dict>
 				<key>iPad7,3</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14F8089</key>
@@ -94707,15 +94812,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14G60</key>
@@ -94763,6 +94868,11 @@
 						<key>SameAs</key>
 						<string>14F8089</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14F8089</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94770,15 +94880,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+								<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -94787,20 +94897,20 @@
 				</dict>
 				<key>iPad7,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14F8089</key>
@@ -94810,15 +94920,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+							<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14G60</key>
@@ -94866,6 +94976,11 @@
 						<key>SameAs</key>
 						<string>14F8089</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14F8089</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -94873,15 +94988,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56153-20171213-AC5D6892-DF73-11E7-912A-5A0F1E4B8CED/iPadiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58071-20180108-92DABD5E-EFDE-11E7-92D0-D25A0C82B506/iPadiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>07eb0f23acd39e65f4a51bcc7324843c9d2f266d</string>
+								<string>0c241502892b83eff3d56da4251caabd9160a415</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55159-20171213-5FC2F534-DDFB-11E7-9A54-15E4FB2783B2/iPad_Pro_HFR_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58254-20170108-B849C54A-F0C8-11E7-8FB8-6C2D869EB6BD/iPad_Pro_HFR_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -97452,20 +97567,20 @@
 				</dict>
 				<key>iPhone6,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+							<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11A466</key>
@@ -97475,15 +97590,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+							<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11A470a</key>
@@ -97751,6 +97866,11 @@
 						<key>SameAs</key>
 						<string>11A466</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11A466</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -97758,15 +97878,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+								<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -97775,20 +97895,20 @@
 				</dict>
 				<key>iPhone6,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+							<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11A466</key>
@@ -97798,15 +97918,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+							<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>11A470a</key>
@@ -98074,6 +98194,11 @@
 						<key>SameAs</key>
 						<string>11A466</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>11A466</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -98081,15 +98206,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+								<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -98098,20 +98223,20 @@
 				</dict>
 				<key>iPhone7,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>62309429f83eb96041d5f3ddbae3a7580d13ee91</string>
+							<string>d4aac68508ebc25aa3731eb0713c483184553626</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55083-20171213-5FBF8D72-DDFB-11E7-BC1A-13E4FB2783B2/iPhone_5.5_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58756-20170108-B849BB7C-F0C8-11E7-97FB-7D2D869EB6BD/iPhone_5.5_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12A366</key>
@@ -98121,15 +98246,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>62309429f83eb96041d5f3ddbae3a7580d13ee91</string>
+							<string>d4aac68508ebc25aa3731eb0713c483184553626</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55083-20171213-5FBF8D72-DDFB-11E7-BC1A-13E4FB2783B2/iPhone_5.5_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58756-20170108-B849BB7C-F0C8-11E7-97FB-7D2D869EB6BD/iPhone_5.5_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12A402</key>
@@ -98352,6 +98477,11 @@
 						<key>SameAs</key>
 						<string>12A366</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12A366</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -98359,15 +98489,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>62309429f83eb96041d5f3ddbae3a7580d13ee91</string>
+								<string>d4aac68508ebc25aa3731eb0713c483184553626</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55083-20171213-5FBF8D72-DDFB-11E7-BC1A-13E4FB2783B2/iPhone_5.5_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58756-20170108-B849BB7C-F0C8-11E7-97FB-7D2D869EB6BD/iPhone_5.5_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -98376,20 +98506,20 @@
 				</dict>
 				<key>iPhone7,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>202b14e1e0f2cdbffc9a08c3aff9a75a4d9c1eee</string>
+							<string>bbc65f449d250bb0a4c5bde1ac19df0d8275e32b</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55135-20171213-5FC25B56-DDFB-11E7-8055-14E4FB2783B2/iPhone_4.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58477-20170108-B84CA260-F0C8-11E7-9E09-722D869EB6BD/iPhone_4.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12A365</key>
@@ -98399,15 +98529,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>202b14e1e0f2cdbffc9a08c3aff9a75a4d9c1eee</string>
+							<string>bbc65f449d250bb0a4c5bde1ac19df0d8275e32b</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55135-20171213-5FC25B56-DDFB-11E7-8055-14E4FB2783B2/iPhone_4.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58477-20170108-B84CA260-F0C8-11E7-9E09-722D869EB6BD/iPhone_4.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12A402</key>
@@ -98630,6 +98760,11 @@
 						<key>SameAs</key>
 						<string>12A365</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12A365</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -98637,15 +98772,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>202b14e1e0f2cdbffc9a08c3aff9a75a4d9c1eee</string>
+								<string>bbc65f449d250bb0a4c5bde1ac19df0d8275e32b</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55135-20171213-5FC25B56-DDFB-11E7-8055-14E4FB2783B2/iPhone_4.7_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58477-20170108-B84CA260-F0C8-11E7-9E09-722D869EB6BD/iPhone_4.7_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -98654,20 +98789,20 @@
 				</dict>
 				<key>iPhone8,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>202b14e1e0f2cdbffc9a08c3aff9a75a4d9c1eee</string>
+							<string>bbc65f449d250bb0a4c5bde1ac19df0d8275e32b</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55135-20171213-5FC25B56-DDFB-11E7-8055-14E4FB2783B2/iPhone_4.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58477-20170108-B84CA260-F0C8-11E7-9E09-722D869EB6BD/iPhone_4.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A342</key>
@@ -98677,15 +98812,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>202b14e1e0f2cdbffc9a08c3aff9a75a4d9c1eee</string>
+							<string>bbc65f449d250bb0a4c5bde1ac19df0d8275e32b</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55135-20171213-5FC25B56-DDFB-11E7-8055-14E4FB2783B2/iPhone_4.7_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58477-20170108-B84CA260-F0C8-11E7-9E09-722D869EB6BD/iPhone_4.7_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A405</key>
@@ -98848,6 +98983,11 @@
 						<key>SameAs</key>
 						<string>13A342</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13A342</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -98855,15 +98995,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>202b14e1e0f2cdbffc9a08c3aff9a75a4d9c1eee</string>
+								<string>bbc65f449d250bb0a4c5bde1ac19df0d8275e32b</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55135-20171213-5FC25B56-DDFB-11E7-8055-14E4FB2783B2/iPhone_4.7_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58477-20170108-B84CA260-F0C8-11E7-9E09-722D869EB6BD/iPhone_4.7_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -98872,20 +99012,20 @@
 				</dict>
 				<key>iPhone8,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>62309429f83eb96041d5f3ddbae3a7580d13ee91</string>
+							<string>d4aac68508ebc25aa3731eb0713c483184553626</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55083-20171213-5FBF8D72-DDFB-11E7-BC1A-13E4FB2783B2/iPhone_5.5_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58756-20170108-B849BB7C-F0C8-11E7-97FB-7D2D869EB6BD/iPhone_5.5_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A343</key>
@@ -98895,15 +99035,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>62309429f83eb96041d5f3ddbae3a7580d13ee91</string>
+							<string>d4aac68508ebc25aa3731eb0713c483184553626</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55083-20171213-5FBF8D72-DDFB-11E7-BC1A-13E4FB2783B2/iPhone_5.5_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58756-20170108-B849BB7C-F0C8-11E7-97FB-7D2D869EB6BD/iPhone_5.5_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13A405</key>
@@ -99066,6 +99206,11 @@
 						<key>SameAs</key>
 						<string>13A343</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13A343</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99073,15 +99218,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>62309429f83eb96041d5f3ddbae3a7580d13ee91</string>
+								<string>d4aac68508ebc25aa3731eb0713c483184553626</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55083-20171213-5FBF8D72-DDFB-11E7-BC1A-13E4FB2783B2/iPhone_5.5_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58756-20170108-B849BB7C-F0C8-11E7-97FB-7D2D869EB6BD/iPhone_5.5_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99090,20 +99235,20 @@
 				</dict>
 				<key>iPhone8,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+							<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13E233</key>
@@ -99113,15 +99258,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+							<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>13E238</key>
@@ -99249,6 +99394,11 @@
 						<key>SameAs</key>
 						<string>13E233</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>13E233</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99256,15 +99406,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>85124b66bb039b0740d7c8b61257abf1c1d07319</string>
+								<string>58636498c6d5bd72197a348eb4fe78fa3eb94ea5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54669-20171213-5FC0AA72-DDFB-11E7-8D39-01E4FB2783B2/iPhone_4.0_64bit_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58536-20170108-B84AE178-F0C8-11E7-9719-782D869EB6BD/iPhone_4.0_64bit_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99273,20 +99423,20 @@
 				</dict>
 				<key>iPhone9,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A346</key>
@@ -99296,15 +99446,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A403</key>
@@ -99407,6 +99557,11 @@
 						<key>SameAs</key>
 						<string>14A346</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14A346</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99414,15 +99569,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+								<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99431,20 +99586,20 @@
 				</dict>
 				<key>iPhone9,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A346</key>
@@ -99454,15 +99609,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A403</key>
@@ -99565,6 +99720,11 @@
 						<key>SameAs</key>
 						<string>14A346</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14A346</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99572,15 +99732,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+								<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99589,20 +99749,20 @@
 				</dict>
 				<key>iPhone9,3</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A346</key>
@@ -99612,15 +99772,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A403</key>
@@ -99723,6 +99883,11 @@
 						<key>SameAs</key>
 						<string>14A346</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14A346</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99730,15 +99895,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+								<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99747,20 +99912,20 @@
 				</dict>
 				<key>iPhone9,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A346</key>
@@ -99770,15 +99935,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>14A403</key>
@@ -99881,6 +100046,11 @@
 						<key>SameAs</key>
 						<string>14A346</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>14A346</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99888,15 +100058,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+								<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99905,20 +100075,20 @@
 				</dict>
 				<key>iPhone10,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A372</key>
@@ -99928,15 +100098,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A403</key>
@@ -99974,6 +100144,11 @@
 						<key>SameAs</key>
 						<string>15A372</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>15A372</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -99981,15 +100156,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+								<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -99998,20 +100173,20 @@
 				</dict>
 				<key>iPhone10,2</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A372</key>
@@ -100021,15 +100196,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A403</key>
@@ -100067,6 +100242,11 @@
 						<key>SameAs</key>
 						<string>15A372</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>15A372</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -100074,15 +100254,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+								<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -100091,20 +100271,20 @@
 				</dict>
 				<key>iPhone10,3</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>16bb3a030157cfde5dce3c5af1682531cac802eb</string>
+							<string>8ec7ee2ed2c1e912314a9a54b0516a202bc2baac</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A8391</key>
@@ -100114,15 +100294,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>16bb3a030157cfde5dce3c5af1682531cac802eb</string>
+							<string>8ec7ee2ed2c1e912314a9a54b0516a202bc2baac</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15B93</key>
@@ -100145,6 +100325,11 @@
 						<key>SameAs</key>
 						<string>15A8391</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>15A8391</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -100152,15 +100337,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>16bb3a030157cfde5dce3c5af1682531cac802eb</string>
+								<string>8ec7ee2ed2c1e912314a9a54b0516a202bc2baac</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -100169,20 +100354,20 @@
 				</dict>
 				<key>iPhone10,4</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A372</key>
@@ -100192,15 +100377,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+							<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A403</key>
@@ -100238,6 +100423,11 @@
 						<key>SameAs</key>
 						<string>15A372</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>15A372</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -100245,15 +100435,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>8f83e7c2e01b87a98437434574e943a733bb1c42</string>
+								<string>40f1375bb32821ec15b1f71edb60e0188e3de52c</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55053-20171213-5FBC38FC-DDFB-11E7-B67D-12E4FB2783B2/iPhone_4.7_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58521-20170108-B84CA3FA-F0C8-11E7-9FB0-762D869EB6BD/iPhone_4.7_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -100262,20 +100452,20 @@
 				</dict>
 				<key>iPhone10,5</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A372</key>
@@ -100285,15 +100475,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+							<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A403</key>
@@ -100331,6 +100521,11 @@
 						<key>SameAs</key>
 						<string>15A372</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>15A372</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -100338,15 +100533,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>9227b1fa07cd17456f435a51dcff3dccb8238a67</string>
+								<string>03c309b621f922eaf2f92c79b50987c971b95cf5</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54683-20171213-5FBC8CF8-DDFB-11E7-B95A-03E4FB2783B2/iPhone_5.5_P3_11.0_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58518-20170108-B84AE1AA-F0C8-11E7-9719-742D869EB6BD/iPhone_5.5_P3_11.0_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -100355,20 +100550,20 @@
 				</dict>
 				<key>iPhone10,6</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>16bb3a030157cfde5dce3c5af1682531cac802eb</string>
+							<string>8ec7ee2ed2c1e912314a9a54b0516a202bc2baac</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15A8391</key>
@@ -100378,15 +100573,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>16bb3a030157cfde5dce3c5af1682531cac802eb</string>
+							<string>8ec7ee2ed2c1e912314a9a54b0516a202bc2baac</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>15B93</key>
@@ -100409,6 +100604,11 @@
 						<key>SameAs</key>
 						<string>15A8391</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>15A8391</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -100416,15 +100616,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56152-20171213-AC5CB9A6-DF73-11E7-99DE-5B0F1E4B8CED/iPhoneiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58073-20180108-92DAC272-EFDE-11E7-83F1-982A165C2DF1/iPhoneiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>16bb3a030157cfde5dce3c5af1682531cac802eb</string>
+								<string>8ec7ee2ed2c1e912314a9a54b0516a202bc2baac</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-54847-20171213-5FBB02FC-DDFB-11E7-9CEF-07E4FB2783B2/iPhone10,6_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58675-20170108-B84E4534-F0C8-11E7-B3D8-7C2D869EB6BD/iPhone10,6_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
@@ -101503,20 +101703,20 @@
 				</dict>
 				<key>iPod7,1</key>
 				<dict>
-					<key>15C153</key>
+					<key>15C202</key>
 					<dict>
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56151-20171213-AC5E6A58-DF73-11E7-A76A-5C0F1E4B8CED/iPodtouchiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58072-20180108-92DABA8E-EFDE-11E7-9477-D373680A46B1/iPodtouchiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>1b9805d44730a4bc5e6dfb76b55a1d248118ffb2</string>
+							<string>67d2462221443674ecb61dd355dde720ae16f0b6</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55027-20171213-5FCAFF86-DDFB-11E7-A506-0EE4FB2783B2/iPodtouch_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58233-20170108-B8467F48-F0C8-11E7-9552-6A2D869EB6BD/iPodtouch_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12H143</key>
@@ -101526,15 +101726,15 @@
 						<key>Restore</key>
 						<dict>
 							<key>BuildVersion</key>
-							<string>15C153</string>
+							<string>15C202</string>
 							<key>DocumentationURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-56151-20171213-AC5E6A58-DF73-11E7-A76A-5C0F1E4B8CED/iPodtouchiTunesUpdateReadMe.ipd</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58072-20180108-92DABA8E-EFDE-11E7-9477-D373680A46B1/iPodtouchiTunesUpdateReadMe.ipd</string>
 							<key>FirmwareSHA1</key>
-							<string>1b9805d44730a4bc5e6dfb76b55a1d248118ffb2</string>
+							<string>67d2462221443674ecb61dd355dde720ae16f0b6</string>
 							<key>FirmwareURL</key>
-							<string>http://appldnld.apple.com/ios11.2.1/091-55027-20171213-5FCAFF86-DDFB-11E7-A506-0EE4FB2783B2/iPodtouch_11.2.1_15C153_Restore.ipsw</string>
+							<string>http://appldnld.apple.com/ios11.2.2/091-58233-20170108-B8467F48-F0C8-11E7-9552-6A2D869EB6BD/iPodtouch_11.2.2_15C202_Restore.ipsw</string>
 							<key>ProductVersion</key>
-							<string>11.2.1</string>
+							<string>11.2.2</string>
 						</dict>
 					</dict>
 					<key>12H321</key>
@@ -101712,6 +101912,11 @@
 						<key>SameAs</key>
 						<string>12H143</string>
 					</dict>
+					<key>15C153</key>
+					<dict>
+						<key>SameAs</key>
+						<string>12H143</string>
+					</dict>
 					<key>Unknown</key>
 					<dict>
 						<key>Universal</key>
@@ -101719,15 +101924,15 @@
 							<key>Restore</key>
 							<dict>
 								<key>BuildVersion</key>
-								<string>15C153</string>
+								<string>15C202</string>
 								<key>DocumentationURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-56151-20171213-AC5E6A58-DF73-11E7-A76A-5C0F1E4B8CED/iPodtouchiTunesUpdateReadMe.ipd</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58072-20180108-92DABA8E-EFDE-11E7-9477-D373680A46B1/iPodtouchiTunesUpdateReadMe.ipd</string>
 								<key>FirmwareSHA1</key>
-								<string>1b9805d44730a4bc5e6dfb76b55a1d248118ffb2</string>
+								<string>67d2462221443674ecb61dd355dde720ae16f0b6</string>
 								<key>FirmwareURL</key>
-								<string>http://appldnld.apple.com/ios11.2.1/091-55027-20171213-5FCAFF86-DDFB-11E7-A506-0EE4FB2783B2/iPodtouch_11.2.1_15C153_Restore.ipsw</string>
+								<string>http://appldnld.apple.com/ios11.2.2/091-58233-20170108-B8467F48-F0C8-11E7-9552-6A2D869EB6BD/iPodtouch_11.2.2_15C202_Restore.ipsw</string>
 								<key>ProductVersion</key>
-								<string>11.2.1</string>
+								<string>11.2.2</string>
 								<key>EpochVersion</key>
 								<string>1</string>
 							</dict>
