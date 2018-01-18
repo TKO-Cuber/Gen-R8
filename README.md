@@ -19,9 +19,15 @@ A work-in-progress custom firmware generator / firmware restorer for various dev
   &nbsp;
   &nbsp;
   
-  **THIS IS A BETA TOOL! I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE AS A RESULT OF USING THIS TOOL!**
-
-
+  
+  * * * * * 
+  **THIS IS A BETA TOOL! I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE AS A RESULT OF USING THIS TOOL!*
+  * * * * * 
+  
+  &nbsp;
+  &nbsp;
+  
+  
 Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, etc.) and to Saurik for Cydia.
 
 &nbsp;
