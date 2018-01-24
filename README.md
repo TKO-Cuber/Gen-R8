@@ -1,4 +1,4 @@
-# IPSW-Gen
+# Gen-r8
 
 A work-in-progress custom firmware generator / firmware restorer for various devices.
   *Also the first tool/program I've made :)*
