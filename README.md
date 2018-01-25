@@ -25,7 +25,7 @@ A work-in-progress custom firmware generator / firmware restorer for various dev
   
   
 Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, bspatch, etc.) and to Saurik for Cydia.
-Also I guess credit to iH8Sn0w for Sn0wbreeze, where most of thos inspiration came from.
+Also I guess credit to iH8Sn0w for Sn0wbreeze, where most of my inspiration for this tool came from.
 
 &nbsp;
 &nbsp;
