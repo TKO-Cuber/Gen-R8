@@ -17,14 +17,15 @@ A work-in-progress custom firmware generator / firmware restorer for various dev
   
   
   * * * * * 
-  **THIS IS A BETA TOOL! I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE AS A RESULT OF USING THIS TOOL!*
+  **THIS IS A BETA TOOL! I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE AS A RESULT OF USING THIS TOOL!**
   * * * * * 
   
   &nbsp;
   &nbsp;
   
   
-Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, etc.) and to Saurik for Cydia.
+Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, bspatch, etc.) and to Saurik for Cydia.
+Also I guess credit to iH8Sn0w for Sn0wbreeze, where most of thos inspiration came from.
 
 &nbsp;
 &nbsp;
