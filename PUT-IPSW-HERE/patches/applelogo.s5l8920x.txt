@@ -1,0 +1,16 @@
+applelogo.s5l8920x | iOS 6.1.3 (10B329) | iPhone 2,1 - N88AP
+------------------------------------------------------------------------
+            Original               |               Modifié              |
+------------------------------------------------------------------------
+00000010 | 6F                      | 00000010 |[62]                     | A
+------------------------------------------------------------------------
+00000020 | 6F                      | 00000020 |[62]                     | B
+------------------------------------------------------------------------
+
+Note : Les valeurs entre crochets [] sont des variables.
+
+A - Le quatrième octet de l'étiquette magique pour l'entête de ce conteneur IMG3.
+	C'est une valeur qui doit représenter un caractère ASCII.
+	
+B - Le quatrième octet de l'étiquette magique pour le «tag» TYPE de ce conteneur IMG3.
+	C'est une valeur qui doit représenter un caractère ASCII.

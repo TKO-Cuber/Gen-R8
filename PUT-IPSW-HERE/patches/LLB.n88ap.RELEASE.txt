@@ -1,0 +1,14 @@
+LLB.n88ap.RELEASE | iOS 6.1.3 (10B329) | iPhone 2,1 - N88AP
+------------------------------------------------------------------------
+            Original               |               Modifié              |
+------------------------------------------------------------------------
+00000988 | 74                      | 00000988 |[62]                     | A
+------------------------------------------------------------------------
+00006F88 |             FF F7 6C FC | 00006F88 |             00 20 18 60 | B
+------------------------------------------------------------------------
+
+Note : Les valeurs entre crochets [] sont des variables.
+
+Liste des modifications:
+A - Le quatrième octet de l'étiquette magique à rechercher dans la section «firmware» de la NAND
+	pour le conteneur IMG3 d'iBoot. C'est une valeur qui doit représenter un caractère ASCII.

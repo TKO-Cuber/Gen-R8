@@ -25,6 +25,10 @@ A work-in-progress custom firmware generator / firmware restorer for various dev
   
   
 Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, etc.) and to Saurik for Cydia.
+All credit to planetbeing for xpwn... check it out here- https://github.com/planetbeing/xpwn/blob/master/LICENSE
+  It is licensed under GPL-3.0
+  
+Also a huge credit to iH8Sn0w's Sn0wbreeze tools where this was heavily based off of. 
 
 &nbsp;
 &nbsp;
