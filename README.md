@@ -1,15 +1,16 @@
 # Gen-r8
 
-A work-in-progress custom firmware generator / firmware restorer for various devices.
+A work-in-progress custom firmware generator.
   *Also the first tool/program I've made :)*
 
- **REQUIRES A BOOTROM EXPLOIT!!**
+ **REQUIRES A BOOTROM EXPLOIT!**
    *Or kloader if you know what you're doing*
   
-  *First release will support the iPhone 3GS* **only**. (Also most likely limited to downgrading to 6.1.3)
+  *Current release supports the iPhone 3GS on 6.1.3* **only**
   *More support will come eventually!*
   
-  The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys!
+  The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys and patches (iBSS, iBEC, ASR)
+    *Currently the patches I am using aren't working quite right... so when I figure that out then we should be good for other versions/devices*
   
   
   &nbsp;
@@ -17,23 +18,18 @@ A work-in-progress custom firmware generator / firmware restorer for various dev
   
   
   * * * * * 
-  **THIS IS A BETA TOOL! I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE AS A RESULT OF USING THIS TOOL!**
+  **THIS IS A BETA TOOL! I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR DEVICE AS A RESULT OF USING THIS TOOL!*
   * * * * * 
   
   &nbsp;
   &nbsp;
   
   
-<<<<<<< HEAD
 Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, etc.) and to Saurik for Cydia.
 All credit to planetbeing for xpwn... check it out here- https://github.com/planetbeing/xpwn/blob/master/LICENSE
   It is licensed under GPL-3.0
   
 Also a huge credit to iH8Sn0w's Sn0wbreeze tools where this was heavily based off of. 
-=======
-Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, bspatch, etc.) and to Saurik for Cydia.
-Also I guess credit to iH8Sn0w for Sn0wbreeze, where most of my inspiration for this tool came from.
->>>>>>> 427c7db94a50eb2bcb28f79e65705a9ea8ca3027
 
 &nbsp;
 &nbsp;
