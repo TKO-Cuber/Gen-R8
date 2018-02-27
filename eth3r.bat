@@ -8,19 +8,22 @@ echo.
 echo                Welcome to Gen-r8! The all-in-one tool for generating custom firmwares.
 echo.
 echo.
-echo                                 ^______                          _____ 
-echo                                ^/ ____/__  ____        _____    ( __  )
-echo                               ^/ / __/ _ \/ __ \      / ___/   / __  /
-echo                              ^/ /_/ /  __/ / / / --- / /   -- / /_/ / 
-echo                              ^\____/\___/_/ /_/     /_/       \____/
+echo                             ^_______ _________          ______   _______ 
+echo                            ^(  ____ \\__   __/|\     /|/ ___  \ (  ____ )
+echo                            ^| (    \/   ) (   | )   ( |\/   \  \| (    )|
+echo                            ^| (__       | |   | (___) |   ___) /| (____)|
+echo                            ^|  __)      | |   |  ___  |  (___ ( |     __)
+echo                            ^| (         | |   | (   ) |      ) \| (\ (   
+echo                            ^| (____/\   | |   | )   ( |/\___/  /| ) \ \__
+echo                            ^(_______/   )_(   |/     \|\______/ |/   \__/
 echo                                               Pre-Alpha 
 echo                                             Version 0.0.1
 echo.
 echo.
 echo.
 echo.
-echo                                         Gen-r8 by TKO_Cuber
-echo                                          GUI by NX_Master
+echo                                          Eth3r by TKO_Cuber
+echo                                           GUI by NX_Master
 echo.
 echo.
 echo.
