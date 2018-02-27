@@ -9,7 +9,7 @@ A work-in-progress custom firmware generator.
   *Current release supports the iPhone 3GS on 6.1.3* **only**!
   *More support will come eventually!*
   
-  The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys and patches (iBSS, iBEC, ASR).
+  The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys and patches (iBSS, iBEC, ASR, iBoot, and LLB).
     *Currently the patches I am using aren't working quite right... so when I figure that out then we should be good for other versions/devices*
   
   
