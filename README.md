@@ -1,4 +1,4 @@
-# Gen-r8
+# Eth3r
 
 A work-in-progress custom firmware generator.
   *Also the first tool/program I've made :)*
