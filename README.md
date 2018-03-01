@@ -25,7 +25,7 @@ A work-in-progress custom firmware generator.
   &nbsp;
   
   
-  ToDo list- will be checked off as time goes by
+  # To Do
   
   - Fix firmwares
   - Add support for more devices
