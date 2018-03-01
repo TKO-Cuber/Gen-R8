@@ -25,6 +25,15 @@ A work-in-progress custom firmware generator.
   &nbsp;
   
   
+  ToDo list- will be checked off as time goes by
+  
+  - Fix firmwares
+  - Add support for more devices
+  - Add support for verbose boot
+  - More customization
+  - Custom bootlogos
+  - Add tweaks to be pre-installed
+  
 Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, etc.) and to Saurik for Cydia.
 All credit to planetbeing for xpwn... check it out here- https://github.com/planetbeing/xpwn/blob/master/LICENSE
   It is licensed under GPL-3.0
