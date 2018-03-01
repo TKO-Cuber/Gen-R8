@@ -10,7 +10,7 @@ A work-in-progress custom firmware generator.
   *More support will come eventually!*
   
   The pretty cool part is that, in theory, this tool *should* work for *any device* as long as you have firmware keys and patches (iBSS, iBEC, ASR, iBoot, and LLB).
-    *Currently the patches I am using aren't working quite right... so when I figure that out then we should be good for other versions/devices*
+    *Currently the firmwares generated are broken... this will be fixed soon*
   
   
   &nbsp;
@@ -29,7 +29,7 @@ Oh yeah all credit to the respective owners for the tools (hfsplus, xpwntool, et
 All credit to planetbeing for xpwn... check it out here- https://github.com/planetbeing/xpwn/blob/master/LICENSE
   It is licensed under GPL-3.0
   
-Also a huge credit to iH8Sn0w's Sn0wbreeze tools where this was heavily based off of. 
+Also a huge credit to iH8Sn0w's Sn0wbreeze where this was heavily based off of. 
 
 &nbsp;
 &nbsp;
