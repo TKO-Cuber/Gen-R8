@@ -1,7 +1,11 @@
 @echo off
 title Gen-r8
 color 0a
-		
+
+::                    Created by TKO-Cuber
+::                            :)
+
+
 echo.		
 echo.	
 echo.	
